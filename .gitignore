@@ -1,0 +1,14 @@
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
